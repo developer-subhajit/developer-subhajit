@@ -1,9 +1,9 @@
 # <div align="center">👋 Hi, I'm Subhajit Bhar</div>
 
-I am a Freelance Data Scientist, building applications with Foundation Models.
+I'm a freelance AI engineer. I build production document-extraction (IDP) pipelines that turn messy PDFs, scans, and emails into clean, auditable data.
 
-- Read my tech blogs on [Medium](https://medium.com/@subhajitbhar1)
-- Also, I write technical articles on my [Personal website](https://subhajitbhar.com/blogs)
+- I write technical articles on my [website](https://subhajitbhar.com/blog/)
+- Also on [Medium](https://medium.com/@subhajitbhar1)
 
 
 <div align="center">
